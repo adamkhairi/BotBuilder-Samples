@@ -50,5 +50,3 @@ if ($extract) {
 if ($itemsProcessed -eq 0) {
     Write-Host "No items found to process in path '$path'."
 }
-
-popd
